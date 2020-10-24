@@ -1,0 +1,1 @@
+30 11 * * * /opt/anaconda3/bin/python3 Desktop/get_quiz.py >> Desktop/cron_out.log 2>&1
